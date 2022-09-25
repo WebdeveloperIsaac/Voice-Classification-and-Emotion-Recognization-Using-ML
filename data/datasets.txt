@@ -1,0 +1,5 @@
+https://sites.psychlabs.ryerson.ca/smartlab/ravdess-commercial-licensing/
+
+https://github.com/x4nth055/pythoncode-tutorials/tree/master/machine-learning/speech-emotion-recognition/data
+
+https://ffmpeg.org/
